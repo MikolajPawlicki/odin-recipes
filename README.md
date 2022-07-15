@@ -1,1 +1,1 @@
-# odin-recipes
+# Simple Recipe HTML Page
